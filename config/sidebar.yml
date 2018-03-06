@@ -828,6 +828,12 @@ apis:
         children:
         - title: Changes
           url: "/api/management/v2/tokens-flows"
+        - title: Manually Generated
+          url: "/api/management/v2/tokens/manually"
+          hidden: true
+        - title: Programmatically Generated
+          url: "/api/management/v2/tokens/programatically"
+          hidden: true
 
       - title: Query String Syntax
         url: "/api/management/v2/query-string-syntax"
