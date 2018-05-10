@@ -25,4 +25,4 @@ You can create Hooks for the following [extensibility points](/hooks/extensibili
 - pre-user-registration
 - post-user-registration
 
-<%= include('../_ip_whitelist') %>
+<%= include('../_includes/_ip_whitelist') %>
