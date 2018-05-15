@@ -1,6 +1,9 @@
 ---
 section: appliance
 description: How to update the PSaaS Appliance
+tags:
+    - appliance
+    - updates
 ---
 
 # Updating the PSaaS Appliance

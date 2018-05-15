@@ -3,6 +3,8 @@ title: Dynamic Application Registration
 description: How to dynamically register applications with Auth0, using the Management API
 crews: crew-2
 toc: true
+tags:
+  - applications
 ---
 
 # Dynamic Application Registration

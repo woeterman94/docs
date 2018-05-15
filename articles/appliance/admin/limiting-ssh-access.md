@@ -1,6 +1,10 @@
 ---
 section: appliance
 description: When and why you should grant SSH access to the PSaaS Appliance
+tags:
+    - appliance
+    - ssh
+    - security
 ---
 
 # PSaaS Appliance Administration: Limiting SSH Access
