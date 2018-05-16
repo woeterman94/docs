@@ -42,6 +42,10 @@ userProfile: any;
 
 //...
 public getProfile(cb): void {
+   if(!this.isAuthenticated()){
+     return;
+   }
+    
   const accessToken = localStorage.getItem('access_token');
   if (!accessToken) {
     throw new Error('Access Token must exist to fetch profile');
